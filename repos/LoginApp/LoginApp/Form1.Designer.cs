@@ -66,7 +66,7 @@ namespace LoginApp
             this.btnLogout.TabIndex = 2;
             this.btnLogout.Text = "Logout";
             this.btnLogout.UseVisualStyleBackColor = true;
-            this.btnLogout.Click += new System.EventHandler(this.btnSet_Click);
+            this.btnLogout.Click += new System.EventHandler(this.btnLogout_Click);
             // 
             // WelcomeMsg
             // 

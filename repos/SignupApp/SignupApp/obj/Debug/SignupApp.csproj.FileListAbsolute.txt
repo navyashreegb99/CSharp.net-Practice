@@ -1,0 +1,10 @@
+C:\Users\U6059922\source\repos\SignupApp\SignupApp\bin\Debug\SignupApp.exe.config
+C:\Users\U6059922\source\repos\SignupApp\SignupApp\bin\Debug\SignupApp.exe
+C:\Users\U6059922\source\repos\SignupApp\SignupApp\bin\Debug\SignupApp.pdb
+C:\Users\U6059922\source\repos\SignupApp\SignupApp\obj\Debug\SignupApp.csproj.AssemblyReference.cache
+C:\Users\U6059922\source\repos\SignupApp\SignupApp\obj\Debug\SignupApp.SignUp.resources
+C:\Users\U6059922\source\repos\SignupApp\SignupApp\obj\Debug\SignupApp.Properties.Resources.resources
+C:\Users\U6059922\source\repos\SignupApp\SignupApp\obj\Debug\SignupApp.csproj.GenerateResource.cache
+C:\Users\U6059922\source\repos\SignupApp\SignupApp\obj\Debug\SignupApp.csproj.CoreCompileInputs.cache
+C:\Users\U6059922\source\repos\SignupApp\SignupApp\obj\Debug\SignupApp.exe
+C:\Users\U6059922\source\repos\SignupApp\SignupApp\obj\Debug\SignupApp.pdb

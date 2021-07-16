@@ -1,4 +1,6 @@
 ﻿
+using System;
+
 namespace LoginApp
 {
     partial class LoginForm
@@ -60,7 +62,9 @@ namespace LoginApp
             this.txtPassword.Name = "txtPassword";
             this.txtPassword.Size = new System.Drawing.Size(537, 22);
             this.txtPassword.TabIndex = 3;
+            this.txtPassword.UseSystemPasswordChar = true;
             this.txtPassword.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
+            this.txtPassword.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtPassword_KeyPress);
             // 
             // password
             // 
@@ -76,18 +80,18 @@ namespace LoginApp
             // btnLogin
             // 
             this.btnLogin.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnLogin.Location = new System.Drawing.Point(195, 304);
+            this.btnLogin.Location = new System.Drawing.Point(195, 215);
             this.btnLogin.Name = "btnLogin";
             this.btnLogin.Size = new System.Drawing.Size(103, 49);
             this.btnLogin.TabIndex = 4;
             this.btnLogin.Text = "Login";
             this.btnLogin.UseVisualStyleBackColor = true;
-            this.btnLogin.Click += new System.EventHandler(this.btnSet_Click);
+            this.btnLogin.Click += new System.EventHandler(this.btnLogin_Click);
             // 
             // btnReset
             // 
             this.btnReset.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnReset.Location = new System.Drawing.Point(348, 304);
+            this.btnReset.Location = new System.Drawing.Point(326, 215);
             this.btnReset.Name = "btnReset";
             this.btnReset.Size = new System.Drawing.Size(103, 49);
             this.btnReset.TabIndex = 5;
@@ -111,6 +115,29 @@ namespace LoginApp
             this.ResumeLayout(false);
             this.PerformLayout();
 
+        }
+
+        private void btnLogin_Click(object sender, EventArgs e)
+        {
+            login();
+        }
+
+        private void login()
+        {
+            string id = txtUserId.Text;
+            string pass = txtPassword.Text;
+
+            if (id == "Navya" && pass == "1234")
+            {
+
+                this.Hide();
+                Form1 f = new Form1();
+                f.Show();
+            }
+            else
+            {
+                System.Windows.Forms.MessageBox.Show("Wrong username or password..Try Again");
+            }
         }
 
         #endregion

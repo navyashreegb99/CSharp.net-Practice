@@ -16,11 +16,13 @@ namespace LoginApp
         {
             InitializeComponent();
         }
-
-        private void btnSet_Click(object sender, EventArgs e)
+        private void btnLogout_Click(object sender, EventArgs e)
         {
-            WelcomeMsg.Text = "You clicked Set button";
+            this.Hide();
+            LoginForm login = new LoginForm();
+            login.Show();
         }
+
 
         private void Form1_Load(object sender, EventArgs e)
         {

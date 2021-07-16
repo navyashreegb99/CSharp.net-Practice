@@ -27,25 +27,30 @@ namespace LoginApp
 
         }
 
-        private void btnSet_Click(object sender, EventArgs e)
-        {
-
-        }
+      
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string id = txtUserId.Text;
-            string pass = txtPassword.Text;
+            refresh();
+        }
+         private void refresh()
+        {
+            txtUserId.Text = "";
+            txtPassword.Text = "";
 
-            if(id=="Navya" && pass=="1234")
+        }
+
+        private void txtPassword_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if(e.KeyChar==(char)Keys.Enter)
             {
-                Form1 f = new Form1();
-                f.Show();
+                login();
             }
-            else
+            if (e.KeyChar == (char)Keys.Escape)
             {
-                MessageBox.Show("Wrong username or password..Try Again");
+                refresh();
             }
+
         }
     }
 }
