@@ -50,4 +50,28 @@ namespace CollectionPractice
             }
         }
     }
+
+    class GenericsPractice
+    {
+        public bool compare<T>(T a, T b)
+        {
+            if (a.Equals(b))
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+
+        }
+
+       static void Main()
+        {
+            GenericsPractice gp = new GenericsPractice();
+            bool res = gp.compare<float>(10.3f, 10.3f);
+            Console.WriteLine(res);
+
+        }
+    }
 }

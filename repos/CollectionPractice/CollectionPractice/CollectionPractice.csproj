@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>CollectionPractice.HashCollection</StartupObject>
+    <StartupObject>CollectionPractice.DictionaryCollection</StartupObject>
   </PropertyGroup>
 
 </Project>
