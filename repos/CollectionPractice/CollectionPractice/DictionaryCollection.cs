@@ -18,6 +18,8 @@ namespace CollectionPractice
 
             foreach (string key in dt.Keys)
                 Console.WriteLine(dt[key]);
+
+            dt.
           
 
         }
