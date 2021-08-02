@@ -4,7 +4,7 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <NoWin32Manifest>true</NoWin32Manifest>
-    <StartupObject>BasicComputations.PrintName</StartupObject>
+    <StartupObject>BasicComputations.RemoveLetterFromString</StartupObject>
   </PropertyGroup>
 
 </Project>
