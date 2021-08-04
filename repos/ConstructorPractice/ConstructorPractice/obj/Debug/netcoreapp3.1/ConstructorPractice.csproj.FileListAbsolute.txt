@@ -1,0 +1,13 @@
+C:\Users\U6059922\source\repos\ConstructorPractice\ConstructorPractice\bin\Debug\netcoreapp3.1\ConstructorPractice.exe
+C:\Users\U6059922\source\repos\ConstructorPractice\ConstructorPractice\bin\Debug\netcoreapp3.1\ConstructorPractice.deps.json
+C:\Users\U6059922\source\repos\ConstructorPractice\ConstructorPractice\bin\Debug\netcoreapp3.1\ConstructorPractice.runtimeconfig.json
+C:\Users\U6059922\source\repos\ConstructorPractice\ConstructorPractice\bin\Debug\netcoreapp3.1\ConstructorPractice.runtimeconfig.dev.json
+C:\Users\U6059922\source\repos\ConstructorPractice\ConstructorPractice\bin\Debug\netcoreapp3.1\ConstructorPractice.dll
+C:\Users\U6059922\source\repos\ConstructorPractice\ConstructorPractice\bin\Debug\netcoreapp3.1\ConstructorPractice.pdb
+C:\Users\U6059922\source\repos\ConstructorPractice\ConstructorPractice\obj\Debug\netcoreapp3.1\ConstructorPractice.csproj.AssemblyReference.cache
+C:\Users\U6059922\source\repos\ConstructorPractice\ConstructorPractice\obj\Debug\netcoreapp3.1\ConstructorPractice.AssemblyInfoInputs.cache
+C:\Users\U6059922\source\repos\ConstructorPractice\ConstructorPractice\obj\Debug\netcoreapp3.1\ConstructorPractice.AssemblyInfo.cs
+C:\Users\U6059922\source\repos\ConstructorPractice\ConstructorPractice\obj\Debug\netcoreapp3.1\ConstructorPractice.csproj.CoreCompileInputs.cache
+C:\Users\U6059922\source\repos\ConstructorPractice\ConstructorPractice\obj\Debug\netcoreapp3.1\ConstructorPractice.dll
+C:\Users\U6059922\source\repos\ConstructorPractice\ConstructorPractice\obj\Debug\netcoreapp3.1\ConstructorPractice.pdb
+C:\Users\U6059922\source\repos\ConstructorPractice\ConstructorPractice\obj\Debug\netcoreapp3.1\ConstructorPractice.genruntimeconfig.cache
