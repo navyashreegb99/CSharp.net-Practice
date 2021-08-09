@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ATM
+namespace ATM.Domain
 {
     class Program
     {

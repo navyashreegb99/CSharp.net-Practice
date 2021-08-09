@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\U6059922\\source\\repos\\ATM\\ATM\\ATM.csproj": {}
+    "C:\\Users\\U6059922\\source\\repos\\ATM.Domain\\ATM.Domain\\ATM.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\U6059922\\source\\repos\\ATM\\ATM\\ATM.csproj": {
+    "C:\\Users\\U6059922\\source\\repos\\ATM.Domain\\ATM.Domain\\ATM.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\U6059922\\source\\repos\\ATM\\ATM\\ATM.csproj",
-        "projectName": "ATM",
-        "projectPath": "C:\\Users\\U6059922\\source\\repos\\ATM\\ATM\\ATM.csproj",
+        "projectUniqueName": "C:\\Users\\U6059922\\source\\repos\\ATM.Domain\\ATM.Domain\\ATM.Domain.csproj",
+        "projectName": "ATM.Domain",
+        "projectPath": "C:\\Users\\U6059922\\source\\repos\\ATM.Domain\\ATM.Domain\\ATM.Domain.csproj",
         "packagesPath": "C:\\Users\\U6059922\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\U6059922\\source\\repos\\ATM\\ATM\\obj\\",
+        "outputPath": "C:\\Users\\U6059922\\source\\repos\\ATM.Domain\\ATM.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\U6059922\\AppData\\Roaming\\NuGet\\NuGet.Config",

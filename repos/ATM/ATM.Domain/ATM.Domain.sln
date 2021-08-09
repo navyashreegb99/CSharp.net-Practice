@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATM", "ATM\ATM.csproj", "{2D132649-3053-46B9-B317-C5EBE42CDA93}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATM.Domain", "ATM.Domain\ATM.Domain.csproj", "{6266586E-627D-4635-85F3-BCBD720AEF2C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2D132649-3053-46B9-B317-C5EBE42CDA93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2D132649-3053-46B9-B317-C5EBE42CDA93}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2D132649-3053-46B9-B317-C5EBE42CDA93}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2D132649-3053-46B9-B317-C5EBE42CDA93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6266586E-627D-4635-85F3-BCBD720AEF2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6266586E-627D-4635-85F3-BCBD720AEF2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6266586E-627D-4635-85F3-BCBD720AEF2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6266586E-627D-4635-85F3-BCBD720AEF2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {EFFFD4D5-83D7-4D10-BEB4-7154663E92F2}
+		SolutionGuid = {84ADE02F-9E83-4716-AD2F-10BC19D2FC5F}
 	EndGlobalSection
 EndGlobal
