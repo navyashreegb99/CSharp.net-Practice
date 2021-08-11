@@ -1,8 +1,15 @@
 ﻿using System;
 
-public class Class1
+namespace ATM.ConsoleApplication
 {
-	public Class1()
-	{
-	}
+    static class Entry 
+    {
+        static void Main()
+        {
+            var app = new AtmApp();
+            app.Initialization();
+            app.Execute();
+        }    
+    }
+
 }

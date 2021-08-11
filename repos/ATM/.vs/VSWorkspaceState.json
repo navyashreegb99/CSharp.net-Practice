@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ATM.ConsoleApp",
+    "\\ATM.Domain",
+    "\\ATM.Domain\\ATM.Domain",
+    "\\ATM.Domain\\ATM.Domain\\Entities",
+    "\\ATM.Domain\\ATM.Domain\\Enum",
+    "\\ATM.Domain\\ATM.Domain\\Interface"
+  ],
+  "SelectedNode": "\\ATM.Domain\\ATM.Domain\\Interface\\IATMApp.cs",
+  "PreviewInSolutionExplorer": false
+}
