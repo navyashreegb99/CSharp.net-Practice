@@ -3,11 +3,8 @@
     "",
     "\\ATM.ConsoleApp",
     "\\ATM.Domain",
-    "\\ATM.Domain\\ATM.Domain",
-    "\\ATM.Domain\\ATM.Domain\\Entities",
-    "\\ATM.Domain\\ATM.Domain\\Enum",
-    "\\ATM.Domain\\ATM.Domain\\Interface"
+    "\\ATM.Domain\\Entities"
   ],
-  "SelectedNode": "\\ATM.Domain\\ATM.Domain\\Interface\\IATMApp.cs",
+  "SelectedNode": "\\ATM.ConsoleApp\\AtmApp.cs",
   "PreviewInSolutionExplorer": false
 }
